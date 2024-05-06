@@ -1,0 +1,118 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 142,
+        "y": 44
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 342.95738973790981,
+            "y": 385.42006704504126
+          },
+          "nodeIndex": "All technology",
+          "size": {
+            "height": 337,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 524.947,
+            "y": 69.377
+          },
+          "nodeIndex": "Delivery types",
+          "size": {
+            "height": 141,
+            "width": 238
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 793.68220064724926,
+            "y": 32.564724919093848
+          },
+          "nodeIndex": "Implementations",
+          "size": {
+            "height": 308,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 792.10409986416914,
+            "y": 439.14959362530789
+          },
+          "nodeIndex": "Milestones",
+          "size": {
+            "height": 337,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1.07994,
+            "y": 56.6343
+          },
+          "nodeIndex": "Representatives - Professional ladder",
+          "size": {
+            "height": 141,
+            "width": 238
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 403.519
+          },
+          "nodeIndex": "Tags",
+          "size": {
+            "height": 141,
+            "width": 238
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1208.4,
+            "y": 0
+          },
+          "nodeIndex": "IT application name",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1138.355605381166,
+            "y": 342.780269058296
+          },
+          "nodeIndex": "Project Category",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70.015698587127162,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
